@@ -18,6 +18,14 @@
 
 ###
 
+## <b>What I am good at!/Skills 🧙🏼‍♂️</b>
+<ul>
+    <li>Web Development</li>
+    <li>Data Science</li>
+    <li>Data Analysis</li>
+    <li>Machine learning Modeling</li>
+</ul>
+####
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
