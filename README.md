@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm  from Tanzania<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Python and Machine Learning<br>- ⚡ In my free time I do learn and practice Financial Markets</p>
+<p align="left">I'm George from Tanzania<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Python and Machine Learning<br>- ⚡ In my free time I do learn and practice Financial Markets</p>
 
 ###
 
